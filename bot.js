@@ -19,7 +19,7 @@ client.on('ready', () => {
 
 
 
-const adminprefix = "البيرفكس";
+const adminprefix = "";
 const devs = ['447830993978523648'];
 client.on('message', message => {
   var argresult = message.content.split(` `).slice(1).join(' ');
