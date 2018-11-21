@@ -34,5 +34,5 @@ if (message.content.startsWith(adminprefix + 'ju')) {
 
 
 
-
+client.login(process.env.BOT_TOKEN);
 
