@@ -1,1 +1,1 @@
-# Jumpo22
+Bot using heroku, 24/7!
